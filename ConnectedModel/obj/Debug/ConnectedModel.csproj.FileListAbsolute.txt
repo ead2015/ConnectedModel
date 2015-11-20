@@ -1,0 +1,8 @@
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\bin\Debug\ConnectedModel.exe.config
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\bin\Debug\MyDB.mdf
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\bin\Debug\MyDB_log.ldf
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\bin\Debug\ConnectedModel.exe
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\bin\Debug\ConnectedModel.pdb
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\obj\Debug\ConnectedModel.csprojResolveAssemblyReference.cache
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\obj\Debug\ConnectedModel.exe
+C:\Shuja\DotNetSamples\F10\Ado.Net\ConnectedModel\ConnectedModel\obj\Debug\ConnectedModel.pdb
